@@ -1,4 +1,5 @@
-# chat-gpt1
+# chat-gpt
+- vue-cli3 搭建；vue2；axios
 
 ## Project setup
 ```
